@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I prefer Tea over Coffee.
 -->
 <br />
-<br />
+
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaTipule&show_icons=true&theme=radical&count_private=true)
 <br />
 

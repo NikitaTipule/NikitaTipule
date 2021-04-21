@@ -8,17 +8,25 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a sophomore studying Computer Science at College of Engineering, Pune.
 - 🌱 I’m currently learning new languages and frameworks.
-<!---
-- 👯 I’m looking to collaborate on ...
-<!--- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about web development, python programming, C and C++ languages.
 - 📫 Reach me at nikitatipule@gmail.com
 - 😄 Fun fact: I prefer Tea over Coffee.
+<!---
+- 👯 I’m looking to collaborate on ...
+<!--- 🤔 I’m looking for help with ... -->
 <!-- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I prefer Tea over Coffee.
 -->
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaTipule&show_icons=true&theme=radical&count_private=true)
-(https://github.com/anuraghazra/github-readme-stats)
 <br />
+<br />
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaTipule&show_icons=true&theme=radical&count_private=true)
+<br />
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaTipule&repo=github-readme-stats" />
+<!-- </a>
+<a href="https://github.com/anuraghazra/convoychat"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaTipule&repo=convoychat" />
+<!-- </a> -->
+
 

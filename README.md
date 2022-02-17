@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I'm a sophomore studying Computer Science at College of Engineering, Pune.
+- 🔭 I'm studying Computer Science at College of Engineering, Pune.
 - 🌱 I’m currently learning new languages and frameworks.
 - 💬 Ask me about web development, python programming, C and C++ languages.
 - 📫 Reach me at nikitatipule@gmail.com
